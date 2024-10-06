@@ -1,6 +1,6 @@
 # FluxVision
 
-FluxVision is a Next.js-powered web application that harnesses the Flux API to transform text prompts into AI-generated images, offering real-time status updates and an integrated gallery for viewing and managing your creations.
+FluxVision is a Next.js-powered web application that harnesses the New Flux 1.1 API (https://api.bfl.ml/) to transform text prompts into AI-generated images, offering real-time status updates and an integrated gallery for viewing and managing your creations.
 
 ## Features
 
