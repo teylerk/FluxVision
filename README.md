@@ -22,7 +22,7 @@ FluxVision is a Next.js-powered web application that harnesses the Flux API to t
 
 1. Clone the repository
 2. Install dependencies with `npm install`
-3. Set up your Flux API key in the `.env.local` file
+3. Set up your Flux API key in the `.env.local` file "NEXT_PUBLIC_FLUX_API_KEY=*****"
 4. Run the development server with `npm run dev`
 5. Open [http://localhost:3000](http://localhost:3000) in your browser
 
